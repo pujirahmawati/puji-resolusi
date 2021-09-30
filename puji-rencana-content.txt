@@ -3,6 +3,7 @@ RENCANA KONTEN SAYA
  > ES6
  > Framework Javascript
   ^ Vue
+  ^ React
 - Struktur data dasar
 - PHP Framework
   ^ Laravel

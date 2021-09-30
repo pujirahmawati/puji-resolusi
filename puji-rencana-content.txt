@@ -2,6 +2,7 @@ RENCANA KONTEN SAYA
 - Javascript
  > ES6
  > Framework Javascript
+- Struktur data dasar
 - PHP Framework
 - Interview
 - VLogs

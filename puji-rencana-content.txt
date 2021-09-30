@@ -1,0 +1,7 @@
+RENCANA KONTEN SAYA
+- Javascript
+ > ES6
+ > Framework Javascript
+- PHP Framework
+- Interview
+- VLogs
